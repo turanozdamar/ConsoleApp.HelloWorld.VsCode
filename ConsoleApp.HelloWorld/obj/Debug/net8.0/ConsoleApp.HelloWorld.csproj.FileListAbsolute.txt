@@ -1,0 +1,14 @@
+c:\Projects\ConsoleApp.HelloWorld\bin\Debug\net8.0\ConsoleApp.HelloWorld.exe
+c:\Projects\ConsoleApp.HelloWorld\bin\Debug\net8.0\ConsoleApp.HelloWorld.deps.json
+c:\Projects\ConsoleApp.HelloWorld\bin\Debug\net8.0\ConsoleApp.HelloWorld.runtimeconfig.json
+c:\Projects\ConsoleApp.HelloWorld\bin\Debug\net8.0\ConsoleApp.HelloWorld.dll
+c:\Projects\ConsoleApp.HelloWorld\bin\Debug\net8.0\ConsoleApp.HelloWorld.pdb
+c:\Projects\ConsoleApp.HelloWorld\obj\Debug\net8.0\ConsoleApp.HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projects\ConsoleApp.HelloWorld\obj\Debug\net8.0\ConsoleApp.HelloWorld.AssemblyInfoInputs.cache
+c:\Projects\ConsoleApp.HelloWorld\obj\Debug\net8.0\ConsoleApp.HelloWorld.AssemblyInfo.cs
+c:\Projects\ConsoleApp.HelloWorld\obj\Debug\net8.0\ConsoleApp.HelloWorld.csproj.CoreCompileInputs.cache
+c:\Projects\ConsoleApp.HelloWorld\obj\Debug\net8.0\ConsoleApp.HelloWorld.dll
+c:\Projects\ConsoleApp.HelloWorld\obj\Debug\net8.0\refint\ConsoleApp.HelloWorld.dll
+c:\Projects\ConsoleApp.HelloWorld\obj\Debug\net8.0\ConsoleApp.HelloWorld.pdb
+c:\Projects\ConsoleApp.HelloWorld\obj\Debug\net8.0\ConsoleApp.HelloWorld.genruntimeconfig.cache
+c:\Projects\ConsoleApp.HelloWorld\obj\Debug\net8.0\ref\ConsoleApp.HelloWorld.dll
